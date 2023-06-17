@@ -1,0 +1,11 @@
+ a{  text-decoration:none;
+    color:black;}
+a:hover { color: white;}
+a :hover{ color: rgb(255, 0, 0)}
+div.video { 
+    color:#00ffff;
+}
+
+div.juego { 
+    color: blue;
+}
